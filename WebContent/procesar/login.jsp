@@ -1,4 +1,4 @@
-<%@page import="ufps.plantilla.negocio.Negocio"%>
+<%@page import="java.ufps.plantilla.negocio.Negocio"%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 
 
